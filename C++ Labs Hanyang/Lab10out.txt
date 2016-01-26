@@ -1,0 +1,13 @@
+Name: Liam Sorta
+Id Number: 0
+GPA: 4
+Student Name: Liam Sorta
+ID Number: 0
+GPA: 2.34
+
+Name: Pistol Pete
+Id Number: 1
+GPA: 4
+Student Name: Pistol Pete
+ID Number: 1
+GPA: 4

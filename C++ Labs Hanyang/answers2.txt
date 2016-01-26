@@ -1,0 +1,18 @@
+Enter two integer numbers:
+2
+20
+Enter two float values:
+3.3
+9.9
+
+iA + iB = 22
+iA - iB = -18
+iA * iB = 40
+iA / iB = 0
+iA % iB = 2
+
+fA + fB = 13.2
+fA - fB = -6.6
+fA * fB = 32.67
+fA / fB = 0.333333
+fA % fB = 0.333333  (use fmod(float1,float2) instead of %)

@@ -1,0 +1,8 @@
+Enter initial savings: 1000
+Enter yearly interest rate: 0.1
+Enter number of compound interest years: 3
+
+Recursive: $1000 after 3 years, at 0.1 would amount to $1331
+Iterative: $1000 after 3 years, at 0.1 would amount to $1331
+계속하려면 아무 키나 누르십시오 . . .
+
